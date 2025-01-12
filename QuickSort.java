@@ -41,3 +41,6 @@ public class QuickSort {
         printArr(arr);
     }
 }
+//Average Time Complexiity - O(nlogn)
+//Worst TC - O(n^2), when in a sorted array, pivot is taken largest or smallest element
+//Space Complexity - O(n)
